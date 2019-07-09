@@ -9,6 +9,8 @@ namespace GitConsoleApp
             // more comments.
             Console.WriteLine("Hello World!");
             // this is another comment.
+            
+            //CMo: i will add my password here.
         }
     }
 }
