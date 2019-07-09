@@ -25,5 +25,10 @@ namespace GitConsoleApp
             // this is another comment.
             // push it.
         }
+
+        static string GetFinScopeOfUser(string user)
+        {
+            return null;
+        }
     }
 }
