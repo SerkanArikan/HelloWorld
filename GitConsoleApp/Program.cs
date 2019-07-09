@@ -8,7 +8,7 @@ namespace GitConsoleApp
         {
             // more comments.
             Console.WriteLine("Hello World!");
-            // additional comments.
+            // this is another comment.
         }
     }
 }
