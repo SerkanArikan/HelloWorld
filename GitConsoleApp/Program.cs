@@ -18,5 +18,12 @@ namespace GitConsoleApp
             // this is another comment.
             // push it.
         }
+
+        static void Main3(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            // this is another comment.
+            // push it.
+        }
     }
 }
